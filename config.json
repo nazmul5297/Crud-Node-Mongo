@@ -1,0 +1,6 @@
+{
+  "database": {
+    "name": "mongo",
+    "url": "mongodb://localhost:27017/mydb"
+  }
+}

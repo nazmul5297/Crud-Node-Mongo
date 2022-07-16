@@ -1,0 +1,24 @@
+{
+  "name": "Crud-Node-Mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazmul5297/Crud-Node-Mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazmul5297/Crud-Node-Mongo/issues"
+  },
+  "homepage": "https://github.com/nazmul5297/Crud-Node-Mongo#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
